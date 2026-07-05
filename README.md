@@ -19,7 +19,7 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
    dip in both was coincidental, not causal.
 
 ## Methodology
-- **Data Cleaning & Validation (SQL via DuckDB): **[Click here to view my notebook]([Game-revenue-decline-analysis-jupiter.ipynb](http://localhost:8889/notebooks/Game-revenue-decline-analysis-jupiter.ipynb?))
+- **Data Cleaning & Validation (SQL via DuckDB): **[Game Revenue Decline Analysis Notebook](Game-revenue-decline-analysis-jupiter.ipynb)
 - **Exploratory Analysis & Visualization (Python)
 - **ML Model Comparison & Prediction:
 - **Visualization (Tableau)
@@ -30,7 +30,7 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
 - **Tableau** — Interactive dashboards
 
 ## Model Performance
-| Model                 | MAE     | R²     | MAPE  | 
+|Model|MAE|R²|MAPE| 
 |--------------------------------------------------|
 | **Gradient Boosting** | $14,700 | 0.5013 | 37.2% |
 | XGBoost               | $16,100 | 0.4062 | 42.8% |
