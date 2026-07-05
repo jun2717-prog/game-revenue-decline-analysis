@@ -22,6 +22,10 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
 - **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter.ipynb](Game-revenue-decline-analysis-jupiter.ipynb)
 - **Full Presentation:** *(coming soon — PDF to be added)*
 
+## Tableau Visualizations
+Interactive dashboards were built in Tableau to explore revenue trends across platforms, genres, and time. 
+[Gaming Revenue Analysis: SQL, Python & Tableau (2010-2025)](https://public.tableau.com/views/GamingRevenueAnalysisSQLPythonTableau2010-2025/Overview1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ## Tools Used
 - **SQL** — Data cleaning and validation
 - **Python** (pandas, matplotlib, scikit-learn) — Analysis, visualization, ML modeling
