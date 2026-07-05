@@ -29,7 +29,6 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
 
 ## Model Performance
 |Model|MAE|R²|MAPE| 
-|--------------------------------------------------|
 | **Gradient Boosting** | $14,700 | 0.5013 | 37.2% |
 | XGBoost               | $16,100 | 0.4062 | 42.8% |
 | Linear Regression     | $18,700 | 0.1866 | 47.2% |
