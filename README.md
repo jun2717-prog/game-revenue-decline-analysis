@@ -20,7 +20,7 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
 
 ## Methodology
 - **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter.ipynb](Game-revenue-decline-analysis-jupiter.ipynb)
-- **Full Presentation:** Jun Yanagisawa Portfolio PPT.pptx
+- **Full Presentation:** [Jun Yanagisawa Portfolio PPT.pptx](Jun Yanagisawa Portfolio PPT.pptx)
 
 ## Tableau Visualizations
 Interactive dashboards were built in Tableau to explore revenue trends across platforms, genres, and time. 
