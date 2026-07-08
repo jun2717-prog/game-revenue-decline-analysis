@@ -19,7 +19,7 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
    dip in both was coincidental, not causal.
 
 ## Methodology
-- **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter.ipynb](Game-revenue-decline-analysis-jupiter.ipynb)
+- **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter (2).ipynb](Game-revenue-decline-analysis-jupiter.ipynb)
 - **Full Presentation:** [Download Presentation (PowerPoint)](Jun%20Yanagisawa%20Portfolio%20PPT.pptx)
 
 
