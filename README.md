@@ -15,11 +15,11 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
    dropped 56.9% ($0.73 → $0.32).
 3. **Session duration is the root cause (r = 0.93)** — the strongest correlate with revenue. 
    Sessions shortened 19.3% (60.8 → 49.1 mins).
-4. **Influencers and social media show no meaningful link to revenue** (r ≈ 0.05) — the 2021 
+4. **Influencers and social media show no meaningful link to revenue** (r ≈ 0.05) — the 2021
    dip in both was coincidental, not causal.
 
 ## Methodology
-- **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter (2).ipynb](Game-revenue-decline-analysis-jupiter.ipynb)
+- **Data Cleaning, Analysis, ML Model & Visualization (SQL + Python):** [Game-revenue-decline-analysis-jupiter (2).ipynb](Game-revenue-decline-analysis-jupiter (2).ipynb)
 - **Full Presentation:** [Download Presentation (PowerPoint)](Jun%20Yanagisawa%20Portfolio%20PPT.pptx)
 
 
