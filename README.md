@@ -10,7 +10,7 @@ of revenue and shows that internal metrics alone cannot fully explain the drop.
 
 ## Key Findings
 1. **Revenue declined 51.4%** over 13 years — from a peak of $83K/day (2011) to $40K (2022), 
-   with partial recovery to $52K by 2024.
+   with partial recovery to $52K by 2024.(Revenue vs Session Duration by Year)
 2. **More users, less money** — Daily Active Users grew +55.6%, while revenue per user 
    dropped 56.9% ($0.73 → $0.32).
 3. **Session duration is the root cause (r = 0.93)** — the strongest correlate with revenue. 
